@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WirelessAdbTest</string>
+    <string name="adb_pair">pair</string>
+    <string name="start_shell">start</string>
+    <string name="stop_shell">stop</string>
+    <string name="search_notification_title">search</string>
+    <string name="input_notification_title">input</string>
+    <string name="work_notification_title">work</string>
+    <string name="pair_code_label">pair code</string>
+    <string name="enter_pair_code_title">enter pair code</string>
+    <string name="stop_search_tile">stop searching</string>
+    <string name="start_shell_title">start shell cmd</string>
+</resources>
